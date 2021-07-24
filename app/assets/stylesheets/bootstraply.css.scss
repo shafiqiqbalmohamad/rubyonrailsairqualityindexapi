@@ -1,0 +1,30 @@
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
+
+.good {
+    background-color: #42E301;
+}
+
+.moderate {
+    background-color: #FEF101;
+}
+
+.usg {
+    background-color : #FA7006;
+}
+
+.unhealthy {
+    background-color : #FE1B01;
+}
+
+.veryunhealthy {
+    background-color : #A3164E;
+}
+
+.hazardous {
+    background-color : #8B102A;
+}
+
+.error {
+    background-color : #808080;
+}
